@@ -1,0 +1,21 @@
+{
+  "name": "@aeejayy/currency-converter-package-local",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "bin": "index.js",
+  "keywords": [
+    "currency",
+    "conversion-rate",
+    "converter"
+  ],
+  "author": "Abhishek Jain",
+  "license": "ISC",
+  "description": "This is a node.js currency converter",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "currency-converter-package": "^1.0.0"
+  }
+}
